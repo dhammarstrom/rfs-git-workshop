@@ -7,3 +7,5 @@ Another remote change
 Another edit, locally
 
 I'm updating here also.
+
+This is work done on the newfeature branch
